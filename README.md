@@ -19,7 +19,11 @@ Project setup instructions
 To start using this project use the following commands:
 
 git clone https://github.com/morreh89/Loan-Default-Prediction.git 
+
+
 cd Loan-Default-Prediction
+
+
 code . 
 
 
